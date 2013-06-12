@@ -1,4 +1,1 @@
-hello-websocket
-===============
-
-WebSocket (JSR 356) Hello World Demo.
+Hello World WebSocket (JSR 356) demo.
