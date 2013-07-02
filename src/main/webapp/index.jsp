@@ -55,6 +55,7 @@
 
             function init() {
                 output = document.getElementById("output");
+                nameField = document.getElementById("nameField");                
             }
 
             function say_hello() {
